@@ -1,0 +1,1 @@
+Naive Bayes tutoriial from scratch. Can be viewed in iPython notebook. Happy learning!
